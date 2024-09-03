@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Understanding React Native",
+      "author": "John Doe",
+      "content": "React Native is a framework for building native apps using React..."
+    },
+    {
+      "id": 2,
+      "title": "Getting Started with State Management",
+      "author": "Jane Smith",
+      "content": "State management is a crucial part of building responsive apps..."
+    },
+    {
+      "id": 3,
+      "title": "Exploring React Hooks",
+      "author": "Alice Johnson",
+      "content": "React Hooks allow you to use state and other React features in function components..."
+    }
+  ]
+  
